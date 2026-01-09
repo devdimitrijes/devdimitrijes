@@ -1,16 +1,22 @@
-## Hi there 👋
+• Young Web developer from Serbia focusing on creating projects for clients!
 
-<!--
-**devdimitrijes/devdimitrijes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• I also enjoy making personal projects like web applications and websites.
 
-Here are some ideas to get you started:
+• Technologies I'm using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JS
+
+• Learning / exploring:
+
+- C# (MVC, ASP.NET, Windows Forms)
+- SQL (SSMS)
+
+• You can reach me through my email:
+
+- dimitrije.itdev@gmail.com
+
+• My portfolio website:
+
+- https://devdimitrijes.github.io/Portfolio
