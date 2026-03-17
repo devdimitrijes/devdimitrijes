@@ -1,6 +1,8 @@
 • Young Web developer from Serbia focusing on creating projects for clients!
 
-• I also enjoy making personal projects like web applications and websites.
+• Also, I enjoy making personal projects like web applications and websites.
+
+• I have basic experience with 3D modeling in Blender, including several small projects.
 
 • Technologies I'm using:
 
