@@ -14,6 +14,7 @@
 
 - C# (MVC, ASP.NET, Windows Forms)
 - SQL (SSMS)
+- Vibe coding
 
 • You can reach me through my email:
 
