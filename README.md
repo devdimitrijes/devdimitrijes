@@ -21,4 +21,4 @@
 
 • My portfolio website:
 
-- https://devdimitrijes.github.io/Portfolio
+- https://devdimitrijes-portfolio.vercel.app
