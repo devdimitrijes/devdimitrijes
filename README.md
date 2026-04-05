@@ -9,13 +9,13 @@
 - HTML
 - CSS
 - JS
+- TypeScript (React)
 
 • Learning / exploring:
 
 - C# (MVC, ASP.NET, Windows Forms)
 - SQL (SSMS)
 - Vibe coding
-- TypeScript (React)
 
 • You can reach me through my email:
 
