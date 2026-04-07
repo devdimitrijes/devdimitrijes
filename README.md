@@ -6,17 +6,15 @@
 
 • Technologies I'm using:
 
-- HTML
-- CSS
-- JS
-- TypeScript (React)
+- HTML, CSS, JavaScript, TypeScript
+- React
+- Next.js
 
 • Learning / exploring:
 
 - C# (MVC, ASP.NET, Windows Forms)
 - SQL (SSMS)
 - Vibe coding
-- Next.js
 
 • You can reach me through my email:
 
