@@ -6,9 +6,10 @@
 
 • Technologies I'm using:
 
-- HTML, CSS, JavaScript, TypeScript
-- React
-- Next.js
+  Frontend:
+  - HTML, CSS, JavaScript, TypeScript
+  - React, Next.js
+  - Styling: Tailwind CSS + DaisyUI
 
 • Learning / exploring:
 
