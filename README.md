@@ -9,11 +9,11 @@
 - HTML, CSS, JavaScript, TypeScript
 - React, Next.js
 - Styling: Tailwind CSS + DaisyUI
+- SQL (SSMS)
 
 • Learning / exploring:
 
 - C# (MVC, ASP.NET, Windows Forms)
-- SQL (SSMS)
 - Vibe coding
 
 • You can reach me through my email:
