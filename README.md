@@ -1,19 +1,14 @@
-• Young Web developer from Serbia focusing on creating projects for clients!
+• Young Full-Stack Web Developer from Serbia, focused on building modern web applications and websites.
 
-• Also, I enjoy making personal projects like web applications and websites.
-
-• I have basic experience with 3D modeling in Blender, including several small projects.
+• I enjoy creating personal projects, learning new technologies, and continuously improving my development skills.
 
 • Technologies I'm using:
 
 - HTML, CSS, JavaScript, TypeScript
-- React, Next.js
-- Tailwind CSS, DaisyUI
+- React, Next.js, React Native, Expo
+- C#
+- Tailwind CSS
 - SQL
-  
-• Learning / exploring:
-
-- C# (MVC, ASP.NET, Windows Forms)
 
 • You can reach me through my email:
 
